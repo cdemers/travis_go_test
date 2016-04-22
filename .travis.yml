@@ -5,6 +5,9 @@ sudo: required
 go:
   - tip
 
-script:
+install:
   - go get -u github.com/alecthomas/gometalinter
   - gometalinter --install --update
+
+script:
+  - gometalinter
