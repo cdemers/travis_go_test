@@ -9,4 +9,4 @@ Testing Travis CI for Go
 
 ## In-House _Drone.io_
 
-[Build Status](http://do-infra-rancher.ocld.wkng.net:31880/api/badges/cdemers/travis_go_test/status.svg)
+[![Build Status](http://do-infra-rancher.ocld.wkng.net:31880/api/badges/cdemers/travis_go_test/status.svg)](http://do-infra-rancher.ocld.wkng.net:31880/cdemers/travis_go_test)
